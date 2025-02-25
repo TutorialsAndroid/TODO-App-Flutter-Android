@@ -14,11 +14,11 @@ A sleek and modern TODO list app built with Flutter. This app allows users to ad
 - ⏳ Real-time countdown timer displayed for each task
 - 🎨 Beautiful and responsive UI with Material Design
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 <div>
   <img src="./screenshot/Screenshot_1740472248.png" width="30%" height="30%"/>
-</div>
+</div> -->
 
 ## 🛠️ Installation
 
